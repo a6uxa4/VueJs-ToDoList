@@ -48,6 +48,7 @@
 <style>
 	body {
 		margin: auto;
+		padding:auto;
 		display: grid;
 		place-items: center;
 	}
